@@ -40,7 +40,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**  
-1. It has low rent per customer spent (294.23)
+1. It has low rent per customer spent at ₹294.23.
 2. High total revenue and high avg sales per customers. This indicates strong sales performance
 3. High average sales per customer, meaning customers in Pune generate relatively high revenue on average.
 4. Overall, Pune has a strong potential to generate high sales while keeping rental costs relatively low.
