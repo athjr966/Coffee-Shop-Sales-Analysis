@@ -51,7 +51,7 @@ After analyzing the data, the recommended top three cities for new store opening
 3. Average sales per customer is around ₹11.6K, meaning each customer generates approximately ₹11.6K in revenue on average.
 4. Although its estimated potential customer base is lower than Delhi's, Jaipur may be a better option if the focus is on reducing risk while maintaining profitability.
 
-**City 3: Jaipur**  
+**City 3: Delhi**  
 1. Highest estimated coffee consumer base at 7.7 million, providing a large potential customer market.
 2. Higher rent compared with Pune and Jaipur, but the average rent per customer is still below ₹500.
 3. The large potential customer base provides greater opportunities for customer acquisition and future growth.
